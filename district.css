@@ -1,0 +1,457 @@
+*{
+    margin: auto;
+    padding: 0px;    
+}
+body{
+    background-color: rgb(26, 25, 93);
+    background-size: cover;
+}
+#logo{
+    height: 50px;
+    margin-left: 30px;
+    margin-top: -5px;
+   
+}
+.navbar-brand{
+    margin-left:-980px;
+}
+.container-fluid{
+    height: 50px;
+    background-color:  rgb(26, 25, 93);
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    
+}
+
+.d-flex{
+    margin-right: 5px;
+}
+.d-block.w-100{
+    height: 700px;
+}
+hr {
+    border-top: 5px solid #000000;
+     color: #000000;
+    }
+#trivandrum{
+margin-left: 50px;
+margin-top: -30px;
+border-radius: 10px;
+transition: transform 0.2s ease-in-out;
+}
+
+#trivandrum:hover {
+    transform: scale(1.05);
+    animation-name: pulse;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+#kollam{
+    margin-top: -429px;
+    border-radius: 10px;
+    margin-left:430px;
+    transition: transform 0.2s ease-in-out;
+}
+
+#kollam:hover {
+    transform: scale(1.05);
+    animation-name: pulse;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+.card-text{
+    text-align: justify;
+}
+.card-img-top{
+    border-radius: 10px;
+}
+
+#Pathanamthitta{
+    margin-top: -440px;
+    border-radius: 10px;
+    margin-left:810px;
+    transition: transform 0.2s ease-in-out;
+}
+
+#Pathanamthitta:hover {
+    transform: scale(1.05);
+    animation-name: pulse;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  #Alappuzha{
+    margin-top: -455px;
+    border-radius: 10px;
+    margin-left:1200px;
+    transition: transform 0.2s ease-in-out;
+}
+
+#Alappuzha:hover {
+    transform: scale(1.05);
+    animation-name: pulse;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  #Kottayam{
+    margin-left: 50px;
+    margin-top: 80px;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+    }
+    
+    #Kottayam:hover {
+        transform: scale(1.05);
+        animation-name: pulse;
+        animation-duration: 1s;
+        animation-fill-mode: both;
+      }
+      
+      @keyframes pulse {
+        0% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.1);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+
+    #Idukki{
+        margin-top: -433px;
+        border-radius: 10px;
+        margin-left:430px;
+        transition: transform 0.2s ease-in-out;
+    }
+    
+    #Idukki:hover {
+        transform: scale(1.05);
+        animation-name: pulse;
+        animation-duration: 1s;
+        animation-fill-mode: both;
+      }
+      
+      @keyframes pulse {
+        0% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.1);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+
+      #Ernakulam{
+        margin-top: -480px;
+        border-radius: 10px;
+        margin-left:810px;
+        transition: transform 0.2s ease-in-out;
+    }
+    
+    #Ernakulam:hover {
+        transform: scale(1.05);
+        animation-name: pulse;
+        animation-duration: 1s;
+        animation-fill-mode: both;
+      }
+      
+      @keyframes pulse {
+        0% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.1);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+
+      #Thrissur{
+        margin-top: -525px;
+        border-radius: 10px;
+        margin-left:1200px;
+        transition: transform 0.2s ease-in-out;
+    }
+    
+    #Thrissur:hover {
+        transform: scale(1.05);
+        animation-name: pulse;
+        animation-duration: 1s;
+        animation-fill-mode: both;
+      }
+      
+      @keyframes pulse {
+        0% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.1);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+  
+      #Palakkad{
+        margin-left: 50px;
+        margin-top: 80px;
+        border-radius: 10px;
+        transition: transform 0.2s ease-in-out;
+        }
+        
+        #Palakkad:hover {
+            transform: scale(1.05);
+            animation-name: pulse;
+            animation-duration: 1s;
+            animation-fill-mode: both;
+          }
+          
+          @keyframes pulse {
+            0% {
+              transform: scale(1);
+            }
+            50% {
+              transform: scale(1.1);
+            }
+            100% {
+              transform: scale(1);
+            }
+          }
+          #Malappuram{
+            margin-top: -486px;
+            border-radius: 10px;
+            margin-left:430px;
+            transition: transform 0.2s ease-in-out;
+        }
+        
+        #Malappuram:hover {
+            transform: scale(1.05);
+            animation-name: pulse;
+            animation-duration: 1s;
+            animation-fill-mode: both;
+          }
+          
+          @keyframes pulse {
+            0% {
+              transform: scale(1);
+            }
+            50% {
+              transform: scale(1.1);
+            }
+            100% {
+              transform: scale(1);
+            }
+          }
+          #Kozhikode{
+            margin-top: -582px;
+            border-radius: 10px;
+            margin-left:810px;
+            transition: transform 0.2s ease-in-out;
+        }
+        
+        #Kozhikode:hover {
+            transform: scale(1.05);
+            animation-name: pulse;
+            animation-duration: 1s;
+            animation-fill-mode: both;
+          }
+          
+          @keyframes pulse {
+            0% {
+              transform: scale(1);
+            }
+            50% {
+              transform: scale(1.1);
+            }
+            100% {
+              transform: scale(1);
+            }
+          }
+          #Wayanad{
+            margin-top: -452px;
+            border-radius: 10px;
+            margin-left:1200px;
+            transition: transform 0.2s ease-in-out;
+        }
+        
+        #Wayanad:hover {
+            transform: scale(1.05);
+            animation-name: pulse;
+            animation-duration: 1s;
+            animation-fill-mode: both;
+          }
+          
+          @keyframes pulse {
+            0% {
+              transform: scale(1);
+            }
+            50% {
+              transform: scale(1.1);
+            }
+            100% {
+              transform: scale(1);
+            }
+          }
+          
+          #Kannur{
+            margin-left: 50px;
+            margin-top: 80px;
+            border-radius: 10px;
+            transition: transform 0.2s ease-in-out;
+            }
+            
+            #Kannur:hover {
+                transform: scale(1.05);
+                animation-name: pulse;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+              }
+              
+              @keyframes pulse {
+                0% {
+                  transform: scale(1);
+                }
+                50% {
+                  transform: scale(1.1);
+                }
+                100% {
+                  transform: scale(1);
+                }
+              }
+          
+              #Kasargod{
+                margin-top: -558px;
+                border-radius: 10px;
+                margin-left:430px;
+                transition: transform 0.2s ease-in-out;
+            }
+            
+            #Kasargod:hover {
+                transform: scale(1.05);
+                animation-name: pulse;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+              }
+              
+              @keyframes pulse {
+                0% {
+                  transform: scale(1);
+                }
+                50% {
+                  transform: scale(1.1);
+                }
+                100% {
+                  transform: scale(1);
+                }
+              }
+
+              footer{
+                background-color: black;
+                position: relative;
+                height: 80px;
+                margin-top: 0px;
+                color: white;
+            }
+            #whatsapp{
+                height: 30px;
+                margin-left: 670px;
+                margin-top: -28px;
+                cursor: pointer;
+                position: relative;
+            }
+            #instagram{
+                position: relative;
+                height: 30px;
+                margin-left: 40px;
+                margin-top: -28px;
+            
+            }
+            #foot{
+                text-align: center;
+                font-family: sans-serif;
+            }
+            #facebook{
+                position: relative;
+                height: 30px;
+                margin-left: 40px;
+                margin-top: -28px;
+                
+            }
+
+            a{
+              margin-left: -0px;
+            
+            }
+            h4{
+              color: white;
+              margin-right: 900px;
+            }
+
+            .card-title{
+              color: white;
+            }
+            .card-text{
+              color: white;
+            }
+        
+
+          
+      
+
+                    
+          
